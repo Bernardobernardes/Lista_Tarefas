@@ -1,0 +1,19 @@
+7 Laranjas;
+5 Limões;
+1 Melancia;
+2 Melão;
+1 saco Maçãs;
+3 Mamões;
+2 cartelas Morango;
+6 Ameixas;
+3 Peras;
+5 Mexericas (bergamota);
+3 pencas de Banana;
+2 Abacaxis;
+3 Abacates;
+2 cachos de Uva;
+6 Goiabas;
+4 Kiwis;
+3 Mangas;
+7 Maracujás;
+8 Pêssegos
